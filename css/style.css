@@ -1,0 +1,38 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+
+h3{color:#0b03fc} 
+
+.text{text-align:center}
+
+.align{text-align:justify;}
+
+#para{text-indent:35%;
+		line-height:3;
+		word-spacing:5px;
+		letter-spacing:5px;
+		color:#119134;}
+		
+#par{text-transform:uppercase;
+	text-align:center;}
+	
+#parag{text-transform:lowercase;
+		text-align:center}
+
+#pa{text-transform:capitalize;
+	text-align:center}
+	
+h2{font-size:50px;}
+
+.font p{font-style:italic;
+		font-size:30px;
+		text-align:center;
+		color:rgba(235, 64, 52, 0.5)}
+		
+
+		
+
+
+
+
